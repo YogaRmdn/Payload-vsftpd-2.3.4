@@ -10,4 +10,4 @@ python exploit.py ip_target
 ```
 
 # Screenshot
-
+![Payload-vsftdp-2.3.4](ss.png)
